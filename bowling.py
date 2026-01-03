@@ -1,4 +1,5 @@
 from typing import Optional
+
 def calculate_bowling_score(game : str)->int:
     """
     function for calculating the score of  ten-pin bowling game
