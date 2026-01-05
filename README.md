@@ -86,7 +86,8 @@ calculate_bowling_score("X7/9-X-88/-6XXX81")
 ```
 ### How to Test
 Run the test suite using pytest:
+```basb
 pytest -v
-```bash
+```
 
 
