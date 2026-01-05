@@ -73,12 +73,20 @@ The solution uses a roll-based approach, which simplifies strike and spare handl
 ---
 
 ## How to Run
+
+From the project root directory, run:
+
+```bash
 python3 bowling.py
-or 
+Or 
+```
+```bash
 from bowling import calculate_bowling_score
 calculate_bowling_score("X7/9-X-88/-6XXX81")
-##
-
-
-## How to Test
+```
+### How to Test
+Run the test suite using pytest:
 pytest -v
+```bash
+
+
