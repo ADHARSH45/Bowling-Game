@@ -50,13 +50,13 @@ XXXXXXXXXXXX → 300
 5/5/5/5/5/5/5/5/5/5/5 → 150
 
 Project Structure
-
+```basb
 bowling-game/
 ├── bowling.py
 ├── test_bowling.py
 ├── README.md
 └── ERP_Presentation.pptx
-
+```
 
 
 ---
